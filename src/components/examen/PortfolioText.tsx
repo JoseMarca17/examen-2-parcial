@@ -16,6 +16,7 @@ const styles = StyleSheet.create({
     gap: 24,
   },
   tittle: {
+    backgroundColor: "#00000",
     color: "#FFFFFF",
     fontFamily: "Poppins",
     fontSize: 32,
@@ -24,6 +25,7 @@ const styles = StyleSheet.create({
     lineHeight: 48,
   },
   subtitle: {
+    backgroundColor: "#00000",
     color: "#FFFFFF",
     fontFamily: "Poppins",
     fontSize: 14,
